@@ -1,0 +1,4 @@
+#Sat Apr 03 13:11:41 IST 2021
+base.0=/Users/prabhakaranpanjalingam/Documents/SampleApplications/ResizableRectangle/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

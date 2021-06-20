@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prabhakaranpanjalingam/Documents/SampleApplications/ResizableRectangle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/SampleApplications/ResizableRectangle/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,98",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "92,156"
+                    },
+                    "to": {
+                        "startLines": "7,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "331,411",
+                        "endLines": "9,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "406,469"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/SampleApplications/ResizableRectangle/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "165,56,112",
+                        "endColumns": "52,55,52",
+                        "endOffsets": "213,107,160"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,222,278",
+                        "endColumns": "52,55,52",
+                        "endOffsets": "217,273,326"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/SampleApplications/ResizableRectangle/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
